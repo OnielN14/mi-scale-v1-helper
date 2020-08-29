@@ -1,11 +1,11 @@
-# Xiaomi Mi Scale v1 (XMTZC01HM) Web Bluetooth Class Helper
+# Xiaomi Mi Scale v1 (XMTZC01HM) Class Helper
+
+## Implementation
+You can check the [sample](/sample/)
 
 ## ⚠ Warning ⚠
 Web Bluetooth API only available on some browser (Chromium-Based). Please check the [Implementation Status](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md).
 
-
-## Implementation
-You can check the [sample](/sample/)
 
 ## Reference
 1. [Web Bluetooth Documentation](https://webbluetoothcg.github.io/web-bluetooth/)
