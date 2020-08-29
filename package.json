@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "./lib/cjs/lib/MiScaleV1Weight.js",
   "module": "./lib/esm/MiScaleV1Weight.js",
-  "types": "./lib/cjs/MiScaleV1Weight.d.ts",
+  "types": "./lib/cjs/lib/MiScaleV1Weight.d.ts",
   "license": "MIT",
   "author": {
     "name": "Daniyal Ahmad Rizaldhi",
