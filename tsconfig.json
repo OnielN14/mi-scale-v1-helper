@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "ES2015",
+    "declaration": true,
+    "outDir": "./lib/esm",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "lib": ["ES2015", "DOM"]
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "sample"]
+}

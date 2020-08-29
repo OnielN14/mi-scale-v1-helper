@@ -1,0 +1,15 @@
+{
+  "name": "browser-mi-scale-bluetooth",
+  "version": "1.0.0",
+  "main": "./lib/cjs/",
+  "module": "./lib/esm/",
+  "license": "MIT",
+  "scripts": {
+    "build":"npm run build:esm && npm run build:commonjs",
+    "build:esm": "tsc",
+    "build:commonjs": "tsc -p ./tsconfig-cjs.json"
+  },
+  "devDependencies": {
+    "@types/web-bluetooth": "^0.0.8"
+  }
+}
