@@ -1,8 +1,8 @@
 {
   "name": "mi-scale-v1-helper",
   "version": "1.0.0",
-  "main": "./lib/cjs/",
-  "module": "./lib/esm/",
+  "main": "./lib/cjs/lib/MiScaleV1Weight.js",
+  "module": "./lib/esm/MiScaleV1Weight.js",
   "types": "./lib/cjs/MiScaleV1Weight.d.ts",
   "license": "MIT",
   "author": {
