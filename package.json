@@ -1,5 +1,5 @@
 {
-  "name": "browser-mi-scale-bluetooth",
+  "name": "mi-scale-v1-helper",
   "version": "1.0.0",
   "main": "./lib/cjs/",
   "module": "./lib/esm/",
